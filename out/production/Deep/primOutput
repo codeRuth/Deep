@@ -1,0 +1,23 @@
+Enter the Number of Vertices :
+5
+Enter the Cost Matrix :
+0       1       2       99      6
+1       0       3       99      99
+2       3       0       4       99
+99      99      4       0       5
+6       99      99      5       0
+The Entered Cost Matrix is :
+0       1       2       99      6
+1       0       3       99      99
+2       3       0       4       99
+99      99      4       0       5
+6       99      99      5       0
+
+Minimum Spanning Tree Edges and Costs are :
+
+Minimum Edge is (2,1) and its Cost is :1
+Minimum Edge is (3,1) and its Cost is :2
+Minimum Edge is (4,3) and its Cost is :4
+Minimum Edge is (5,4) and its Cost is :5
+
+The Minimum Spanning Tree Cost is : 12

@@ -1,0 +1,15 @@
+Number of Vertices of the Graph :
+6
+Enter the Weighted Matrix :
+0   3   99  99  6   5
+3   0   1   99  99  4
+99  1   0   6   99  4
+99  99  6   0   8   5
+6   99  99  8   0   2
+5   4   4   5   2   0
+Minimum Edge is :(2,3) and cost is 1
+Minimum Edge is :(5,6) and cost is 2
+Minimum Edge is :(1,2) and cost is 3
+Minimum Edge is :(2,6) and cost is 4
+Minimum Edge is :(4,6) and cost is 5
+Cost of Minimum Spanning Tree = 15

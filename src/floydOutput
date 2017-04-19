@@ -1,0 +1,19 @@
+Enter the Number of Vertices:
+4
+Enter the Adjacency Matrix
+0  99  3   99
+2  0   99  99
+99 7   0   1
+6  99  99  0
+
+Entered Adjacency Matrix is:
+0	99	3	99
+2	0	99	99
+99	7	0	1
+6	99	99	0
+
+All pair Shortest Path Matrix:
+0	10	3	4
+2	0	5	6
+7	7	0	1
+6	16	9	0

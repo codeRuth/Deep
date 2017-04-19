@@ -1,0 +1,12 @@
+Enter No. of Items :
+4
+Enter the Weights of Each Item :
+2    1    3    2
+Enter the Values of Each Item :
+12    10    20    15
+Enter Maximum Volume of Knapsack :
+5
+Quantity of item number:2 added is 1
+Quantity of item number:4 added is 2
+Quantity of item number: 3 added is 2
+The Total Profit is 38.333332
